@@ -65,4 +65,4 @@ Kortix's row comes from its own documentation. Eigent's row comes from Eigent's 
 - Read the live self-hosting guide at [eigentalternative.com/self-hosting-eigent-alternative](https://eigentalternative.com/self-hosting-eigent-alternative).
 - See the side-by-side at [eigentalternative.com/kortix-vs-eigent](https://eigentalternative.com/kortix-vs-eigent).
 - [Try Kortix](https://kortix.com) on Kortix Cloud, or self-host the open-source stack for free.
-- Kortix is open source: read it, fork it, audit it. The repository is [Kortix on GitHub](https://github.com/kortix-ai/suna).
+- Kortix is open source: read it, fork it, audit it. The repository is [Kortix on GitHub](https://github.com/kortix-ai/CompanyOS).
